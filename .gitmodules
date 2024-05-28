@@ -1,0 +1,15 @@
+[submodule "chapter5/levelup-react"]
+	path = chapter5/levelup-react
+	url = https://github.com/Eirene-dev/levelup-react.git
+[submodule "chapter6_7/levelup-react-with-nextjs"]
+	path = chapter6_7/levelup-react-with-nextjs
+	url = https://github.com/Eirene-dev/levelup-react-with-nextjs.git
+[submodule "chapter11/levelup-dashboard"]
+	path = chapter11/levelup-dashboard
+	url = https://github.com/Eirene-dev/levelup-dashboard.git
+[submodule "chapter12/levelup-weather-chat"]
+	path = chapter12/levelup-weather-chat
+	url = https://github.com/Eirene-dev/levelup-weather-chat.git
+[submodule "chapter13/levelup-commerce"]
+	path = chapter13/levelup-commerce
+	url = https://github.com/Eirene-dev/levelup-commerce.git
