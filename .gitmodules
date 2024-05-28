@@ -7,3 +7,6 @@
 [submodule "chapter11/levelup-dashboard"]
 	path = chapter11/levelup-dashboard
 	url = https://github.com/Eirene-dev/levelup-dashboard.git
+[submodule "chapter12/levelup-weather-chat"]
+	path = chapter12/levelup-weather-chat
+	url = https://github.com/Eirene-dev/levelup-weather-chat.git
