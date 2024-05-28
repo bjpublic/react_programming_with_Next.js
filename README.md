@@ -143,6 +143,14 @@
 
 각 프로젝트 폴더에는 해당 프로젝트에 대한 상세한 ReadMe 파일이 포함되어 있어 프로젝트의 세부적인 내용을 파악하고 진행할 수 있습니다.
 
+### 서브모듈 포함 안내
+이 프로젝트는 서브모듈을 포함하고 있습니다. 서브모듈을 포함하여 프로젝트를 클론하는 방법은 다음과 같습니다.
+```bash
+git clone https://github.com/bjpublic/react_programming_with_Next.js.git
+cd react_programming_with_Next.js
+git submodule update --init --recursive
+```
+
 ## 문제 해결 및 Q/A
 이 책과 모든 프로젝트 뿐만 아니라 "레벨업 리액트 프로그래밍 with Next.js" 책에 대한 모든 질문과 답변은 [https://reactnext-central.xyz/levelup](https://reactnext-central.xyz/levelup) 웹 페이지에서 진행됩니다. 이 페이지를 통해 궁금한 점을 해결하고 다른 사용자들과 지식을 공유할 수 있습니다.
 
