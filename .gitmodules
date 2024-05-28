@@ -1,3 +1,6 @@
 [submodule "chapter5/levelup-react"]
 	path = chapter5/levelup-react
 	url = https://github.com/Eirene-dev/levelup-react.git
+[submodule "chapter6_7/levelup-react-with-nextjs"]
+	path = chapter6_7/levelup-react-with-nextjs
+	url = https://github.com/Eirene-dev/levelup-react-with-nextjs.git
