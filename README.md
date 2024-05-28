@@ -139,7 +139,7 @@
 - `/chapter6_7/levelup-react-with-nextjs/`: Next.js를 활용한 심화 리액트 프로젝트
 - `/chapter11/levelup-dashboard/`: 차트 중심의 대시보드 설계와 구현
 - `/chapter12/levelup-weather-chat/`: AI 챗봇 통합 웹 애플리케이션
-- `/chater13/levelup-commerce/`: 전자 상거래 사이트 개발
+- `/chapter13/levelup-commerce/`: 전자 상거래 사이트 개발
 
 각 프로젝트 폴더에는 해당 프로젝트에 대한 상세한 ReadMe 파일이 포함되어 있어 프로젝트의 세부적인 내용을 파악하고 진행할 수 있습니다.
 
