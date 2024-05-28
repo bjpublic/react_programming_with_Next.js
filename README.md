@@ -163,3 +163,7 @@
 - 🔗 https://x.com/PaxCodeXyz
 - 🌐 https://reactnext-central.xyz
 - 📘 https://wikidocs.net/profile/info/book/18596
+
+## 책 표지
+![앞 표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165922795.jpg)
+![뒤 표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/addt/9791165922795_02.jpg)
