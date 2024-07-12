@@ -154,6 +154,25 @@ git submodule update --init --recursive
 ## 문제 해결 및 Q/A
 이 책과 모든 프로젝트 뿐만 아니라 "레벨업 리액트 프로그래밍 with Next.js" 책에 대한 모든 질문과 답변은 [https://reactnext-central.xyz/levelup](https://reactnext-central.xyz/levelup) 웹 페이지에서 진행됩니다. 이 페이지를 통해 궁금한 점을 해결하고 다른 사용자들과 지식을 공유할 수 있습니다.
 
+## 출간 후 온라인 추가 자료
+### 「12장. AI 챗봇을 통합하는 웹 애플리케이션」의 실습 프로젝트 업데이트
+
+이 장의 실습 프로젝트는 2.x 버전으로 구현되었습니다. 이 버전은 기본적인 텍스트 생성 및 채팅 기능을 지원했지만 대규모 언어 모델에 대한 접근 및 관리 기능이 제한적이었고 새로운 기능 추가에 대한 유연성이 부족했습니다.
+버셀 AI SDK가 버전 3.x로 업그레이드되면서 성능 향상과 새로운 기능이 추가되었습니다. 주요 변경 사항은 다음과 같습니다.
+
+- **성능 향상**: 서버와 클라이언트 간의 데이터 전송 속도 향상
+- **새로운 기능 추가**: 새로운 스트리밍 텍스트 프로토콜 도입, `useCompletion` 훅 추가
+- **Deprecated API 대체**: 기존 `StreamingTextResponse` API가 새로운 프로토콜로 대체
+- **3.1 버전**: 클라이언트와 서버 간 데이터 스트리밍 기능 개선, 다양한 AI 모델 제공자 지원 강화
+- **3.2 버전**: 버그 수정 및 안정성 개선, 성능 최적화, 새로운 기능 도입
+
+업데이트된 버전은 최신 버셀 AI SDK를 사용하고 OpenAI의 Chat Completion과 Assistants를 이용하여 구현된 예제를 제공합니다.
+
+- **소스 코드**: [레벨업 날씨 AI 챗봇 v2](https://github.com/Eirene-dev/levelup-weather-chat-v2)
+- **상세 코드 설명**: [날씨 AI 챗봇 예제](https://reactnext-central.xyz/example/weather-ai-chatbot)
+
+위 링크를 통해 최신 정보와 예제를 확인할 수 있습니다.
+
 ## 온라인 서점 구매 링크
 
 - [예스24](https://www.yes24.com/Product/Goods/126689601)
